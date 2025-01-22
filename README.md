@@ -27,8 +27,27 @@ Math.random(): Usado para gerar um índice aleatório e sortear um nome da lista
 splice(): Métodos usados para remover o amigo sorteado da lista de maneira eficiente.
 innerHTML: Usado para atualizar o conteúdo de elementos HTML dinamicamente (por exemplo, mostrando o nome sorteado).
 
+- Como Usar
+1. Clone ou Baixe o Repositório:
+git clone https://github.com/VictorMCoura/ChallengeAmigoSecreto.git
+
+2. Abra o arquivo index.html no seu navegador.
+ 
+3. Adicionar Nomes:
+Insira um nome no campo de texto.
+Clique no botão "Adicionar" para incluir o nome na lista.
+
+4. Realizar o Sorteio:
+Clique no botão "Sortear" para escolher um nome aleatoriamente.
+O nome sorteado será exibido na tela e removido da lista de amigos.
+
+5. Se a lista estiver vazia:
+Se você tentar sortear sem adicionar amigos, será exibido um alerta pedindo para adicionar pelo menos um nome.
+
 -Exemplo de Uso
-Adicione o nome "João" ao campo de texto.
-Clique em "Adicionar". O nome "João" será adicionado à lista.
-Clique em "Sortear". O nome "João" será sorteado e removido da lista.
+1. Adicione o nome "João" ao campo de texto.
+
+2. Clique em "Adicionar". O nome "João" será adicionado à lista.
+
+3. Clique em "Sortear". O nome "João" será sorteado e removido da lista.
 
